@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathanielGetachew
 - 👀 I’m interested in codng
-- 🌱 I’m currently learning computer science 
+- 🌱 I’m a graduate of computer science 
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me via e-mail
 
